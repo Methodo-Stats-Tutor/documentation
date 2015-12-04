@@ -1,3 +1,3 @@
 # documentation
 
-cf wiki
+cf [https://github.com/Methodo-Stats-Tutor/documentation/wiki](wiki)
